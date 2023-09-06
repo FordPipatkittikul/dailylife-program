@@ -12,7 +12,7 @@ qr = qrcode.QRCode(
     border=5,
 )
 # add data
-wifi = "WIFI:S:eduroam;T:WPA;P:your_password123;;"
+wifi = "WIFI:S:yourwifi;T:WPA;P:your_password123;;"
 qr.add_data(wifi)
 qr.make(fit=True)
 qrcode_img = qr.make_image(fill_color="green", back_color="white")
