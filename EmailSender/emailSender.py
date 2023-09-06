@@ -5,15 +5,19 @@ import ssl
 import smtplib
 
 def sender():
-    email_sender = "fordpipatkitkul@gmail.com";
+    email_sender = "your@gmail.com";
     return email_sender
+
 def sender_password():
     email_password = mail_password;
     return email_password
 
 
-subject = "scam mail don't read it";
-body = " sadsda ";
+subject = "subject";
+body = """ 
+whatever you wannna write
+
+""";
 
 
 email = EmailMessage();
