@@ -1,5 +1,6 @@
-# some sueful python program
+# Daliy life program
 some python program that might help your daily task
 - emailsender
   - I do not upload my password file
-- finddate
+- find date
+- generate qrcode for wifi login
