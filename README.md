@@ -1,4 +1,4 @@
-# Daliy life program
+# Daliy life Python program
 
 - emailsender
 
